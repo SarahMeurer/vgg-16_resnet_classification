@@ -1,1 +1,3 @@
 ## Análise comparativa entre as redes neurais convolucionais VGG-16 e ResNet na classificação de patologias cardíacas em eletrocardiogramas
+
+Este trabalho compara as redes neurais convolucionais VGG-16 e ResNet na classificação de patologias cardíacas usando sinais de ECG. Ambas as redes foram implementadas e treinadas com um conjunto de dados rotulado por cardiologistas. O modelo obtido da arquitetura VGG-16 obteve uma precisão de 69%, sensibilidade de 58% e F1-score de 62%, enquanto o modelo obtido da arquitetura ResNet alcançou uma precisão de 71%, sensibilidade de 60% e F1-score de 63%. Os resultados indicam que ambos modelos exibem desempenho similar quando comparados usando um conjunto de dados padronizado. 
